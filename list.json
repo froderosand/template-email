@@ -1,0 +1,18 @@
+[
+    {
+        "email": "frode@rosand.net",
+        "locale": "nb",
+        "profile": {
+            "firstName": "Frode",
+            "lastName": "Rosand"
+        }
+    },
+    {
+        "email": "frode@rosand.net",
+        "locale": "en",
+        "profile": {
+            "firstName": "Frode",
+            "lastName": "Rosand"
+        }
+    }
+]
