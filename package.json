@@ -1,0 +1,13 @@
+{
+  "name": "template-email",
+  "version": "0.0.1",
+  "description": "Mail merge engine for Yesmail",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Frode N. Rosand",
+  "license": "MIT"
+}

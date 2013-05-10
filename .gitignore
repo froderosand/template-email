@@ -1,0 +1,11 @@
+node_modules
+.classpath
+.project
+.settings
+target
+.DS_Store
+*sublime-project
+*sublime-workspace
+.idea
+*.log
+.elasticbeanstalk/

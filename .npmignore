@@ -1,0 +1,14 @@
+.git
+.gitignore
+.idea
+clients
+test
+.classpath
+.project
+.settings
+target
+.DS_Store
+.npmignore
+*sublime-project
+*sublime-workspace
+*.log
