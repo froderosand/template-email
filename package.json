@@ -13,8 +13,8 @@
   "dependencies": {
     "moment": "~2.27.0",
     "consolidate": "~0.9.1",
-    "handlebars": "~1.0.10",
-    "ejs": "~0.8.4",
+    "handlebars": ">=4.3.0",
+    "ejs": ">=2.5.5",
     "dust": "~0.3.0",
     "mustache": "~4.0.1"
   }
