@@ -11,7 +11,7 @@
   "author": "Frode N. Rosand",
   "license": "MIT",
   "dependencies": {
-    "moment": "~2.0.0",
+    "moment": "~2.27.0",
     "consolidate": "~0.9.1",
     "handlebars": "~1.0.10",
     "ejs": "~0.8.4",
